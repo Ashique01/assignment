@@ -1,9 +1,17 @@
+  
 body{
     font-family: 'Rubik', sans-serif;
 }
 h1{
     color: rgb(87, 87, 87);
     font-size: 70px;
+    font-weight: 700;
+}
+h2
+{
+    text-align: left;
+    font-size: 40px;
+    color: rgb(87, 87, 87);
     font-weight: 700;
 }
 .red-color{
@@ -13,6 +21,12 @@ p{
     color: silver;
     font-size: 25px;
 
+}
+.inside-paragraph{
+    color: black;
+    font-weight: 20px;
+    font-size: 20px;
+    text-align: justify;
 }
 .button{
     text-decoration: none;
@@ -29,6 +43,7 @@ p{
 .top{
     display: flex;
     margin-top: 10%;
+    margin-bottom: 10%;
 }
 
 .fifty-fifty{
@@ -36,5 +51,26 @@ p{
     margin-left: 7%;
 }
 .fifty-fifty img{
-    width: 100%;
+    width: 80%;
+}
+.fifty-fifty2
+{
+    width: 50%;
+    margin-right: 7%;
+
+}
+.fifty-fifty2 img
+{
+    width:100%;
+    height: auto;
+    padding-left: 20%;
+    
+}
+.middle
+{
+    display: flex;
+    background-image: url("Frame 56.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-bottom: 5%;
 }
