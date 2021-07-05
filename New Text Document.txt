@@ -1,0 +1,12 @@
+ <div class="box">
+            <img id="image" src="Project Cover6.png" alt="No image to preview">
+            <h3>Chicken Steak</h3>
+            <p class="inside-paragraph">You will feel juicy in every bite.</p>
+        </div>
+        <div class="box">
+            <img id="image" src="Project Cover1.jpg" alt="No image to preview">
+            <h3>Beef Steak with Salad</h3>
+            <p class="inside-paragraph">We bbq the beef and add with the Salad.It feels just yummy</p>
+
+        </div>
+    </div>
